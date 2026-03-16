@@ -1,7 +1,6 @@
 # Acknowledgement
 
-This project is derived from the work of  
-[Aman Dalmia](https://github.com/aman-dalmia).
+This project is derived from the work of [Aman Dalmia](https://github.com/aman-dalmia).
 
 Original repository:
 https://github.com/dalmia/David-Silver-Reinforcement-learning.git
