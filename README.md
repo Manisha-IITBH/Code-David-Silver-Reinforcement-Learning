@@ -1,3 +1,11 @@
+# Acknowledgement
+
+This project is based on the work from:
+https://github.com/dalmia/David-Silver-Reinforcement-learning.git
+
+Modifications and improvements have been made in this repository.
+
+
 # David-Silver-Reinforcement-learning 
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=David%20Silver%20Reinforcement%20Learning%20course%20notes%20along%20with%20implementation&url=https://github.com/dalmia/David-Silver-Reinforcement-learning&hashtags=deeplearning,reinforcementlearning,python,machinelearning,keras)
