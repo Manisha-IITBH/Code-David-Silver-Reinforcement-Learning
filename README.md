@@ -1,9 +1,20 @@
 # Acknowledgement
 
-This project is based on the work from:
+This project is derived from the work of  
+[Aman Dalmia](https://github.com/aman-dalmia).
+
+Original repository:
 https://github.com/dalmia/David-Silver-Reinforcement-learning.git
 
 Modifications and improvements have been made in this repository.
+
+
+# Modifications
+- Implemented **SARSA algorithm** for the Windy Gridworld environment.
+- Added **experimentation notebooks** for running and visualizing results.
+- Updated the codebase to use **Gymnasium instead of Gym**, as Gym is no longer maintained.
+- Minor **code restructuring and improvements** for compatibility with the latest Python environment.
+
 
 
 # David-Silver-Reinforcement-learning 
